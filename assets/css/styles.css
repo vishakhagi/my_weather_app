@@ -1,0 +1,18 @@
+header a{
+    color: #888888;
+    text-decoration: none;
+    padding: 16px;
+    font-size: large;
+}
+.one{
+    text-align: center;
+    margin: auto;
+    padding: 16px;
+}
+footer{
+    color: #888888;
+    display: flex;
+    border-top: 2px solid gray;
+    position:fixed;
+    bottom:0;
+}
